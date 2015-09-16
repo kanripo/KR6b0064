@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 雜譬喻經
+#+DATE: 2015-08-30 19:36:06.775132
+#+PROPERTY: JUAN 0
